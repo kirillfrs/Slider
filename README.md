@@ -10,4 +10,4 @@ props:
 {totalCounter}: counter for slides;
 {currentCounter} : current slide
 {wrapper}: wrapper for slide;
-{field}: current slide in wrapper carousel;
+{field} : current slide in wrapper carousel;
